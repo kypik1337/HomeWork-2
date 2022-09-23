@@ -1,0 +1,15 @@
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.AssemblyInfo.cs
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\homrWork2\zad003\bin\Debug\net6.0\zad003.exe
+C:\Users\Артем\Desktop\homrWork2\zad003\bin\Debug\net6.0\zad003.deps.json
+C:\Users\Артем\Desktop\homrWork2\zad003\bin\Debug\net6.0\zad003.runtimeconfig.json
+C:\Users\Артем\Desktop\homrWork2\zad003\bin\Debug\net6.0\zad003.dll
+C:\Users\Артем\Desktop\homrWork2\zad003\bin\Debug\net6.0\zad003.pdb
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.dll
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\refint\zad003.dll
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.pdb
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\zad003.genruntimeconfig.cache
+C:\Users\Артем\Desktop\homrWork2\zad003\obj\Debug\net6.0\ref\zad003.dll
